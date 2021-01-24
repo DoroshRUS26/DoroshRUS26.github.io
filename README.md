@@ -5,6 +5,6 @@ Test page
 <html lang="ru">
 <head>
 <meta charset="utf-8" />
-<title>Булочная</title>
+<title>Люблю тебя булочка моя. P.S. Твой А.</title>
 </head>
 
